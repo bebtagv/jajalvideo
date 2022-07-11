@@ -1,0 +1,88 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_banner": "",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_intertitial": "",
+      "main_ads_native": "ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_native": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite"
+    }
+  ],
+  "CATEGORY": [
+    {
+      "id": "1",
+      "title": "Comedy"
+    },
+    {
+      "id": "2",
+      "title": "Horror"
+    },
+    {
+      "id": "3",
+      "title": "Romance"
+      }
+  ],
+  "DATA": [
+    {
+      "id": "1",
+      "thumbnail": "https://i.ytimg.com/vi/186UxRO2-yM/sddefault.jpg",
+      "category": "Comedy",
+      "trending": "1",
+      "title": "Guru-guru Gokil (2020)",
+      "description": "Guru-guru Gokil adalah film Indonesia tahun 2020 yang disutradarai Sammaria Simanjuntak dan dibintangi Gading Marten, Dian Sastrowardoyo, Faradina Mufti, Boris Bokir, dan Kevin Ardilova. Film ini menjadi debut Dian sebagai produser. Film terbaru produksi BASE Entertainment, akan tayang secara eksklusif di Netflix.\n\nTanggal rilis awal: 17 Agustus 2020\nSutradara: Sammaria Simanjuntak\nPerusahaan produksi: BASE Entertainment\nSkenario: Rahabi Mandra\nProduser: Dian Sastrowardoyo, Shanty Harmayn",
+      "url": "https://www.youtube.com/watch?v=186UxRO2-yM"
+    },
+    {
+      "id": "2",
+      "thumbnail": "https://i.ytimg.com/vi/sgeKNNn2Raw/sddefault.jpg",
+      "category": "Comedy",
+      "trending": "1",
+      "title": "Total Chaos (2017)",
+      "description": "Rully (Ricky harun), anak kota yang baru pindah ke desa kecil bersama ibunya (Yurike Prastika) dengan harapan bisa menjalani hidup baru meninggalkan masa lalu mereka.\n\nBaru satu hari di desa tersebut, Rully bertemu dengan seorang gadis cantik bernama Rossa (Nikita Willy) yang hendak pergi sekolah. Pertemuan tersebut membuat Rully memutuskan untuk masuk ke sekolah yang sama.\n\nNamun, ternyata gedung sekolah khusus perempuan dan gedung sekolah khusus laki-laki terpisah. Di gedung sekolah laki-laki begitu banyak gank, bullying dan penindasan terhadap murid yang culun juga murid tanpa gank. Ditemani Bojel (Babe Cabita), Rully melewati petualangan yang seru dan menegangkan di sekolah itu.\n\nKarena Garang (Ciccio manassero), pemimpin gank terkuat di sekolah itu mengetahui dan cemburu pada Rully yang berusaha mendekati Rossa, gadis impiannya selama ini. Hingga Rully menjadi incaran Garang dan ganknya.\n\nMampukah Rully selamat dari Garang dan mendapatkan Rossa? ",
+      "url": "https://www.youtube.com/watch?v=sgeKNNn2Raw"
+    },
+    {
+      "id": "3",
+      "thumbnail": "https://i.ytimg.com/vi/XHg2vT_4HyE/sddefault.jpg",
+      "category": "Comedy",
+      "trending": "1",
+      "title": "Radio Galau FM (2012)",
+      "description": "Selama tiga tahun, Bara tidak punya pacar. Selama tiga tahun terakhir Bara menghabiskan malam minggu dikamar, pacaran dengan laptop dan mengejar impiannya menjadi penulis. Selama tiga tahun hanya ada satu hal yang konstan dalam hidup Bara : GALAU.\nKegalauan Bara berakhir ketika hadir sosok Velin, adik kelas lucu yang kemudian menjadi pacarnya. Bersama Velin, Bara memasuki dunia baru yang penuh warna. Bersama Velin, hidup Bara menjadi lebih indah dan menyenangkan.\nTapi, masa masa indah bersama Velin tidak bertahan lama. Velin yang manis perlahan bertransformasi menjadi manja dan menyebalkan. Velin berubah, Bara mulai gerah. Bara berusaha mencari solusi, tetapi sikap dramatis Velin kian menjadi. Velin bahkan sampai mencoba bunuh diri dan hal ini membuat Bara galau lagi.\nDitengah kegalauan Bara, hadir sosok Diandra, kakak kelas yang cantik, seksi dan dewasa. Diandra membuat Bara nyaman. Diandra membuat Bara senang. Diandra membuat Bara melupakan Velin. Sialnya, ternyata Diandra lebih dramatis dari Velin dan hal ini tersebut membuat Bara semakin galau.\nAwalnya Bara berpikir kehadiran perempuan akan membuat dirinya tidak galau lagi. Tapi nyatanya Velin dan Diandra malah membuat Bara galau tingkat nasional.\nBagaimana cara Bara menghadapi Velin dan Diandra? Apa yang Bara lakukan untuk mengusir kegalauannya? Jawaban bisa kamu dapatkan di Radio Galau FM",
+      "url": "https://www.youtube.com/watch?v=XHg2vT_4HyE"
+    },
+    {
+      "id": "4",
+      "thumbnail": "https://i.ytimg.com/vi/MgXSfAQmTr0/sddefault.jpg",
+      "category": "Romance",
+      "trending": "1",
+      "title": "Melodylan (2019)",
+      "description": "Melody (Aisyah Aqilah) yang pindah sekolah karena dia sedang menghindari setiap masalah yang terjadi di dalam hidupnya, apalagi Melody memilik masa lalu yang buruk dengan mantan kekasihnya. \n\nTetapi di sekolah baru, masalah kembali muncul saat Melody mengenal Dylan (Devano Danendra), cowok yang selama ini terkenal cool, suka bikin masalah namun tetap menjadi idola di sekolah karena kegantengannya. \n\nKabar kedekatan Melody dan Dylan didengar oleh Bella (Zoe Jackson), gadis cantik yang selama ini dianggap paling dekat dengan Dylan. Kabar itu juga membuat Bianca (Naima Al Jufri), si biang onar sekolah menjadi kelabakan karena dia sendiri tak pernah bisa mendekati Dylan.\n\nMelody semakin galau saat perkenalannya dengan Dylan memang benar-benar selalu menimbulkan masalah. Banyak yang cemburu dan banyak yang tidak suka dengan Melody si gadis baru. Melody berusaha menghindari Dylan dengan mendekatkan diri pada Fathur (Angga Yunanda).",
+      "url": "https://www.youtube.com/watch?v=MgXSfAQmTr0"
+    },
+    {
+      "id": "5",
+      "thumbnail": "http://i.ytimg.com/vi/sPmVGp2_a8g/sddefault.jpg",
+      "category": "Romance",
+      "trending": "0",
+      "title": "Diam-Diam Menyukaimu",
+      "description": "Diam-Diam Menyukaimu (By Stealth Like You) Menceritakan tentang kisah cinta seorang gadis remaja Zhang Muxi dan pria yang di sukai dia Guo Jianan.\n\n★Pemeran：Zhang Muxi/ Guo Jianan/ Yu Xuanchen/ Liu Yuanyuan/ Liu Xuan/ Li Rouxuan",
+      "url": "https://www.youtube.com/watch?v=sPmVGp2_a8g"
+    }
+  ]
+}
+
+
+
